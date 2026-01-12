@@ -1,0 +1,7 @@
+{
+  "name": "IELTS Master Flashcards",
+  "description": "A premium, interactive IELTS vocabulary learning platform featuring 3D flashcards, AI-powered native pronunciation, and a personalized word notebook.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
